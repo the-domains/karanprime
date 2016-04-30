@@ -1,0 +1,28 @@
+name: karanprime
+favicon: null
+layout_spectrum: 0.4502734283450991
+typography_spectrum: 0.5329020095523447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2739020560402423
+  lightness: 0.4782211729325354
+  saturation: 0.20975752221420407
+  rhythmicContrast: 0.8756525253411382
+purpose: []
