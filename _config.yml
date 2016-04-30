@@ -2,6 +2,7 @@ name: karanprime
 favicon: null
 layout_spectrum: 0.4502734283450991
 typography_spectrum: 0.5329020095523447
+title: My site
 cta:
   domain: null
   bucket: null
